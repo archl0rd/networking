@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="90mm"
+   height="50mm"
+   viewBox="0 0 90 50"
+   id="svg5477"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="business-card_02.svg">
+  <title
+     id="title6191">business-card</title>
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.6970563"
+     inkscape:cx="153.30978"
+     inkscape:cy="80.191519"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="700"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="0,0"
+       orientation="1,0"
+       id="guide6187"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="89.999998,0"
+       orientation="1,0"
+       id="guide6189"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5481">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>business-card</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Adriano Freitas</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       d="M 90.000001,49.999997 0,49.999997 0,7.2950367e-8 l 90.000001,0 0,49.999996927049636 z"
+       style="fill:#1d2226;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path7616-3"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g4203"
+       transform="translate(0,-2.0126589)">
+      <g
+         transform="matrix(0.44617753,0,0,0.44617753,-0.03063995,-1.3346651)"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.8777771px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot62261-9">
+        <path
+           d="m 51.710421,90.034127 0.541867,1.659467 1.738488,0 -2.8448,-8.2296 -1.873955,0 -2.923822,8.2296 1.7272,0 0.553155,-1.659467 3.081867,0 z m -0.462845,-1.411111 -2.144888,0 1.072444,-3.217333 1.072444,3.217333 z"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.28888893px;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans Bold';fill:#ffffff;fill-opacity:1"
+           id="path4148" />
+        <path
+           d="m 55.081918,91.693594 3.217333,0 c 1.253067,0 2.043289,-0.293511 2.607733,-0.959556 0.643467,-0.767644 0.993423,-1.873955 0.993423,-3.160889 0,-1.275644 -0.349956,-2.381955 -0.993423,-3.160889 -0.564444,-0.666044 -1.343377,-0.948266 -2.607733,-0.948266 l -3.217333,0 0,8.2296 z m 1.693333,-1.411111 0,-5.407378 1.524,0 c 1.275644,0 1.907822,0.891822 1.907822,2.709333 0,1.806222 -0.632178,2.698045 -1.907822,2.698045 l -1.524,0 z"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.28888893px;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans Bold';fill:#ffffff;fill-opacity:1"
+           id="path4150" />
+        <path
+           d="m 64.967103,88.431105 1.941689,0 c 0.733778,0 1.049867,0.293511 1.049867,0.970844 l 0,0.338667 c -0.01129,0.214489 -0.01129,0.417689 -0.01129,0.541867 0,0.778933 0.04516,1.016 0.248356,1.411111 l 1.817511,0 0,-0.3048 c -0.259645,-0.146756 -0.361245,-0.316089 -0.361245,-0.677334 -0.04516,-2.427111 -0.09031,-2.54 -1.140178,-2.991555 0.925689,-0.361245 1.388534,-1.027289 1.388534,-2.032 0,-0.654756 -0.225778,-1.253067 -0.620889,-1.659467 -0.372533,-0.383822 -0.891822,-0.564444 -1.591733,-0.564444 l -4.413956,0 0,8.2296 1.693333,0 0,-3.262489 z m 0,-1.411111 0,-2.144889 2.043289,0 c 0.485422,0 0.677334,0.04515 0.891822,0.214489 0.2032,0.169333 0.3048,0.451555 0.3048,0.835378 0,0.395111 -0.1016,0.7112 -0.3048,0.880533 -0.191911,0.158044 -0.4064,0.214489 -0.891822,0.214489 l -2.043289,0 z"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.28888893px;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans Bold';fill:#ffffff;fill-opacity:1"
+           id="path4152" />
+        <path
+           d="m 72.977276,83.463994 -1.693334,0 0,8.2296 1.693334,0 0,-8.2296 z"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.28888893px;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans Bold';fill:#ffffff;fill-opacity:1"
+           id="path4154" />
+        <path
+           d="m 79.271185,90.034127 0.541867,1.659467 1.738489,0 -2.8448,-8.2296 -1.873956,0 -2.923822,8.2296 1.7272,0 0.553155,-1.659467 3.081867,0 z m -0.462844,-1.411111 -2.144889,0 1.072444,-3.217333 1.072445,3.217333 z"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.28888893px;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans Bold';fill:#ffffff;fill-opacity:1"
+           id="path4156" />
+        <path
+           d="m 87.54206,91.693594 1.693333,0 0,-8.2296 -1.693333,0 0,5.599289 -3.262489,-5.599289 -1.738489,0 0,8.2296 1.693333,0 0,-5.6896 3.307645,5.6896 z"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.28888893px;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans Bold';fill:#ffffff;fill-opacity:1"
+           id="path4158" />
+        <path
+           d="m 94.400233,83.328527 c -1.151467,0 -2.099733,0.383822 -2.799645,1.140178 -0.733777,0.790222 -1.151466,1.941689 -1.151466,3.172178 0,1.230489 0.417689,2.393244 1.151466,3.172177 0.7112,0.767645 1.636889,1.140178 2.810934,1.140178 1.174044,0 2.099733,-0.372533 2.810933,-1.140178 0.7112,-0.756355 1.151467,-1.952977 1.151467,-3.115733 0,-1.286933 -0.417689,-2.449689 -1.151467,-3.228622 -0.722489,-0.778933 -1.6256,-1.140178 -2.822222,-1.140178 z m 0.01129,1.444978 c 1.388533,0 2.269066,1.128889 2.269066,2.912533 0,1.693334 -0.9144,2.822222 -2.269066,2.822222 -1.377245,0 -2.269067,-1.128888 -2.269067,-2.867377 0,-1.738489 0.891822,-2.867378 2.269067,-2.867378 z"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.28888893px;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans Bold';fill:#ffffff;fill-opacity:1"
+           id="path4160" />
+        <path
+           d="m 104.43253,88.148883 3.60116,0 0,-1.411111 -3.60116,0 0,-1.862667 4.08658,0 0,-1.411111 -5.77991,0 0,8.2296 1.69333,0 0,-3.544711 z"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.28888893px;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans Bold';fill:#ffffff;fill-opacity:1"
+           id="path4162" />
+        <path
+           d="m 111.40148,88.431105 1.94169,0 c 0.73378,0 1.04986,0.293511 1.04986,0.970844 l 0,0.338667 c -0.0113,0.214489 -0.0113,0.417689 -0.0113,0.541867 0,0.778933 0.0452,1.016 0.24835,1.411111 l 1.81751,0 0,-0.3048 c -0.25964,-0.146756 -0.36124,-0.316089 -0.36124,-0.677334 -0.0452,-2.427111 -0.0903,-2.54 -1.14018,-2.991555 0.92569,-0.361245 1.38853,-1.027289 1.38853,-2.032 0,-0.654756 -0.22577,-1.253067 -0.62089,-1.659467 -0.37253,-0.383822 -0.89182,-0.564444 -1.59173,-0.564444 l -4.41395,0 0,8.2296 1.69333,0 0,-3.262489 z m 0,-1.411111 0,-2.144889 2.04329,0 c 0.48542,0 0.67733,0.04515 0.89182,0.214489 0.2032,0.169333 0.3048,0.451555 0.3048,0.835378 0,0.395111 -0.1016,0.7112 -0.3048,0.880533 -0.19191,0.158044 -0.4064,0.214489 -0.89182,0.214489 l -2.04329,0 z"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.28888893px;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans Bold';fill:#ffffff;fill-opacity:1"
+           id="path4164" />
+        <path
+           d="m 119.50408,88.148883 3.93982,0 0,-1.411111 -3.93982,0 0,-1.862667 4.25591,0 0,-1.411111 -5.94925,0 0,8.2296 6.15245,0 0,-1.411111 -4.45911,0 0,-2.1336 z"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.28888893px;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans Bold';fill:#ffffff;fill-opacity:1"
+           id="path4166" />
+        <path
+           d="m 126.86408,83.463994 -1.69333,0 0,8.2296 1.69333,0 0,-8.2296 z"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.28888893px;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans Bold';fill:#ffffff;fill-opacity:1"
+           id="path4168" />
+        <path
+           d="m 131.91463,84.875105 2.40453,0 0,-1.411111 -6.59271,0 0,1.411111 2.49484,0 0,6.818489 1.69334,0 0,-6.818489 z"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.28888893px;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans Bold';fill:#ffffff;fill-opacity:1"
+           id="path4170" />
+        <path
+           d="m 139.13317,90.034127 0.54186,1.659467 1.73849,0 -2.8448,-8.2296 -1.87395,0 -2.92383,8.2296 1.7272,0 0.55316,-1.659467 3.08187,0 z m -0.46285,-1.411111 -2.14489,0 1.07245,-3.217333 1.07244,3.217333 z"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.28888893px;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans Bold';fill:#ffffff;fill-opacity:1"
+           id="path4172" />
+        <path
+           d="m 148.28934,85.970127 c -0.0113,-1.704622 -1.15147,-2.6416 -3.22863,-2.6416 -1.97555,0 -3.11573,0.925689 -3.11573,2.528711 0,1.275645 0.64347,1.896534 2.31422,2.212622 l 1.15147,0.225778 c 1.12889,0.214489 1.54658,0.530578 1.54658,1.196622 0,0.688623 -0.63218,1.106312 -1.65947,1.106312 -1.15147,0 -1.79493,-0.485423 -1.85138,-1.365956 l -1.64817,0 c 0.1016,1.761067 1.30951,2.720622 3.40924,2.720622 2.12231,0 3.37538,-0.982133 3.37538,-2.664178 0,-1.298222 -0.65476,-1.975555 -2.17876,-2.269066 l -1.28693,-0.248356 c -1.20791,-0.237066 -1.55787,-0.474133 -1.55787,-1.072444 0,-0.620889 0.54187,-1.016 1.4224,-1.016 1.07245,0 1.67076,0.451555 1.7272,1.286933 l 1.58045,0 z"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.28888893px;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans Bold';fill:#ffffff;fill-opacity:1"
+           id="path4174" />
+        <path
+           d="m 155.50258,93.04826 -6.77334,0 0,0.778934 6.77334,0 0,-0.778934 z"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.28888893px;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans Bold';fill:#ffffff;fill-opacity:1"
+           id="path4176" />
+      </g>
+      <g
+         transform="matrix(0.0440742,0,0,-0.0440742,26.943764,39.882592)"
+         id="g3868-1">
+        <path
+           transform="scale(1,-1)"
+           style="fill:#f0f0f0;fill-opacity:1"
+           d="m 403.62079,-290.57202 217.8128,0 0,72.58233 -217.8128,0 z"
+           id="rect3850-5" />
+        <g
+           id="g3856-9"
+           transform="translate(34.354582,0)"
+           style="fill:#f0f0f0;fill-opacity:1">
+          <path
+             transform="matrix(-0.70710678,-0.70710678,-0.70710678,0.70710678,0,0)"
+             style="fill:#f0f0f0;fill-opacity:1"
+             d="m -575.27411,53.558708 217.81281,0 0,72.582332 -217.81281,0 z"
+             id="rect3852-9" />
+          <path
+             transform="matrix(-0.70710678,0.70710678,0.70710678,0.70710678,0,0)"
+             style="fill:#f0f0f0;fill-opacity:1"
+             d="m 53.556461,502.70514 217.812809,0 0,72.58234 -217.812809,0 z"
+             id="rect3854-1" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
