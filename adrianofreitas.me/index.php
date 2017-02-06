@@ -1,3 +1,6 @@
+<?php
+header('X-Frame-Options: SAMEORIGIN');
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -15,7 +18,7 @@
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Theme CSS -->
-    <link href="css/freelancer.css" rel="stylesheet">
+    <link href="css/freelancer.min.css" rel="stylesheet">
 
     <!-- Custom Fonts -->
     <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
@@ -507,7 +510,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
 
     <!-- Contact Form JavaScript -->
-    <script src="js/jqBootstrapValidation.js"></script>
+    <script src="js/jqBootstrapValidation.min.js"></script>
     <script src="js/contact_me.js"></script>
 
     <!-- Theme JavaScript -->
