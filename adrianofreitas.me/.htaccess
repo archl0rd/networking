@@ -5,7 +5,6 @@ Options -Indexes
 
 RewriteEngine On
 
-
 # Do not remove this line or mod_rewrite rules and search engine friendly URLs will stop working
 RewriteBase /
 
@@ -13,6 +12,13 @@ RewriteBase /
 RewriteCond %{HTTPS} !=on
 RewriteCond %{HTTP_HOST} ^(www\.)?adrianofreitas\.me$ [NC]
 RewriteRule ^.*$ https://%1adrianofreitas.me%{REQUEST_URI} [R,L]
+
+#Security Headers
+Header set X-XSS-Protection 1
+Header append X-FRAME-OPTIONS "SAMEORIGIN"
+Header set Content-Security-Policy "default-src 'self';"
+Header set X-Content-Type-Options nosniff
+
 
 
 # compressão básica
