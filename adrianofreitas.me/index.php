@@ -1,6 +1,3 @@
-<?php
-header('X-Frame-Options: SAMEORIGIN');
-?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -14,6 +11,7 @@ header('X-Frame-Options: SAMEORIGIN');
 
     <title>Adriano Freitas - Freelancer</title>
 
+    <link rel="shortcut icon" href="img/favicon.ico" >
     <!-- Bootstrap Core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
