@@ -16,7 +16,7 @@
    width="900"
    height="650"
    xml:space="preserve"
-   sodipodi:docname="mask.svg"><title
+   sodipodi:docname="mask_1.svg"><title
      id="title2998">PROJECT M.A.S.K.</title><metadata
      id="metadata8"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
@@ -82,14 +82,14 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="705"
+     inkscape:window-width="1600"
+     inkscape:window-height="836"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.41220344"
-     inkscape:cx="517.38305"
+     inkscape:cx="90.409418"
      inkscape:cy="237.66895"
-     inkscape:window-x="0"
+     inkscape:window-x="1600"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="g10"
@@ -127,7 +127,7 @@
      inkscape:groupmode="layer"
      inkscape:label="Black-Logo"
      transform="matrix(1.25,0,0,-1.25,0,650)"><path
-       d="m -75.687877,-168.92033 855.932197,0 0,835.42724 -855.932197,0 0,-835.42724 z"
+       d="M 0,0 720,0 720,520 0,520 0,0 Z"
        style="fill:#657b7a;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="path12"
        inkscape:connector-curvature="0" /><g

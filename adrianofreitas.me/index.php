@@ -16,7 +16,7 @@
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Theme CSS -->
-    <link href="css/freelancer.min.css" rel="stylesheet">
+    <link href="css/freelancer.css" rel="stylesheet">
 
     <!-- Custom Fonts -->
     <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
@@ -132,7 +132,7 @@
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/mask_2.svg" class="img-responsive" alt="">
+                        <img src="img/portfolio/archl0rd.svg" class="img-responsive" alt="">
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
@@ -435,21 +435,21 @@
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <h2>Project Title</h2>
+                            <h2>Project M.A.S.K</h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/mask_2.svg" class="img-responsive img-centered" alt="">
+                            <img src="img/portfolio/mask.svg" class="img-responsive img-centered" alt="">
                             <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="#">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
                             <ul class="list-inline item-details">
                                 <li>Client:
-                                    <strong><a href="#">Start Bootstrap</a>
+                                    <strong><a href="#">Me</a>
                                     </strong>
                                 </li>
                                 <li>Date:
-                                    <strong><a href="#">April 2014</a>
+                                    <strong><a href="#">September 2016</a>
                                     </strong>
                                 </li>
                                 <li>Service:
-                                    <strong><a href="#">Web Development</a>
+                                    <strong><a href="#">Icon set</a>
                                     </strong>
                                 </li>
                             </ul>
