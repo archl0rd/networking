@@ -1,6 +1,4 @@
-<?php
 
-?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -68,19 +66,10 @@
                 <div class="col-lg-12">
                     <img class="img-responsive" src="img/logo.svg" alt="" width="256">
                     <div class="intro-text text-center">
-                      <?php
 
-                        if (!empty($error_msg)) {
-                          foreach ($error_msg as $err)
-                            echo   "<span class='error-status'>" . $cod . "</span>";
-                            echo   "<span class='error-msg'>" . $err . "</span>";
-                        }else {
-                          echo   "<span class='error-status'> Oops!</span>";
-                          echo   "<span class='error-msg'>Há algo errado.</span>";
-                          //header("Location: https://adrianofreitas.me");
-                        }
+                      <span class='error-status'>404</span>
+                      <span class='error-msg'>I cant't seem to find the page you're looking for. Sorry!</span>
 
-                      ?>
                     </div>
                 </div>
             </div>
