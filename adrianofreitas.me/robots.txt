@@ -1,3 +1,0 @@
-#abandon hope all ye enter
-User-Agent: *
-Disallow: /*.php$
